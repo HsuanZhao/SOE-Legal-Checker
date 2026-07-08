@@ -1,0 +1,31 @@
+# 操作系统生成文件
+.DS_Store
+Thumbs.db
+
+# 编辑器/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.log
+*.bak
+
+# 依赖目录（如有）
+node_modules/
+.vendor/
+
+# 输出文件（若生成过报告示例，可忽略，但示例本身保留）
+output/
+*.pdf
+
+# 敏感信息（如合同真实文本）
+*secret*.docx
+*confidential*.pdf
+
+# Python 缓存（如使用脚本）
+__pycache__/
+*.pyc
